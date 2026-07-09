@@ -1,1 +1,1 @@
-# PulseFit-Studio
+# PulseFit-Gym
